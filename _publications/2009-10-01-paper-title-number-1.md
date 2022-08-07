@@ -3,7 +3,7 @@ title: "Federated Machine Learning based Bank-Customer Churn Prediction"
 collection: publications
 permalink: /publication/Federated Machine Learning based Bank-Customer Churn Prediction
 excerpt: 'Accepted and will be published in the book “Practical Data Mining Techniques and Applications”'
-# date: 2009-10-01
+date: 2022-02-01
 venue: 'CRC Press, Taylor & Francis Group '
 # paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
