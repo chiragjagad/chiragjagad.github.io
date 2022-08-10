@@ -3,7 +3,7 @@ title: "Smart Healthcare System to Predict Aliments Based on Preliminary Symptom
 collection: publications
 permalink: /publication/Smart Healthcare System to Predict Aliments Based on Preliminary Symptoms
 excerpt: 'Current status: Accepted at 10th International Conference on Innovations in Computer Science and Engineering (ICICSE-2022) '
-date: 2022-2-01
+date: 2022-8-01
 venue: 'Springer LNNS series'
 
 ---
