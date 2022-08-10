@@ -49,7 +49,7 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-experience
+Experience
 ======
   <ul>{% for post in site.experience %}
     {% include archive-single-cv.html %}
