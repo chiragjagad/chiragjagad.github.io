@@ -15,7 +15,7 @@ redirect_from:
 - M.S. in Jekyll, GitHub University, 2014
 - Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
-# Work experience
+# Work Experience
 
 - Summer 2015: Research Assistant
 
