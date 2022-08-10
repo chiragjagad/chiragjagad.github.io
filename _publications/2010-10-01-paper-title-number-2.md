@@ -1,15 +1,12 @@
 ---
-title: "Paper Title Number 2"
+title: "A Study on Video Analytics and Their Performance Analysis for Various Object Detection Algorithms"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/A Study on Video Analytics and Their Performance Analysis for Various Object Detection Algorithms
+excerpt: 'Current status: Accepted and Presented'
+date: 2022-4-01
+venue: 'IEEE Xplore'
+
 ---
-This paper is about the number 2. The number 3 is left for future work.
+## Abstract:
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
-
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Video analytics has gained immense significance from the industry and academics as it provides simultaneous monitoring, analysis, and swift response to unforeseen circumstances. The ability to automatically identify temporal and spatial occurrences in videos and generate important insights is a key element of video analytics. The prime functionality of Video analytics includes Object Detection, Anomaly Detection, and Video annotation. Video analytics is extremely beneficial in the security domain, and video surveillance, an application of video analytics, is used to identify improper behavior or anomalies. Anomaly detection is important in cybersecurity intrusion detection, system health monitoring, surveillance detection in sensor networks, and law enforcement. Analysis of videos can be achieved using Object Detection algorithms like You Only Look Once (YOLO), Region Proposals algorithms (R-CNN, Fast R-CNN and Faster R-CNN), or Single Shot MultiBox Detector (SSD). A comprehensive introduction, network architecture, and internal mechanisms of these algorithms are presented in this paper. Furthermore, a comparative performance analysis of these models was conducted by evaluating the models based on results obtained from the implementation and studying previous research works. We further discuss some of the challenges encountered in video analytics and a set of possible future opportunities and new perspectives on addressing them
