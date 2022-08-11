@@ -7,6 +7,9 @@ redirect_from:
   - /resume
 ---
 
+![CV](http://academicpages.github.io/files/cv.pdf)
+
+<!---
 {% include base_path %}
 
 # Education
@@ -57,4 +60,4 @@ Experience
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams ---!>
