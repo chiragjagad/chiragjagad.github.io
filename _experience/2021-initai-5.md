@@ -1,0 +1,11 @@
+---
+title: "Init.AI - AI CLub at DJSCE"
+collection: experience
+type: "Researcher and Research Lead"
+permalink: /experience/InitAI
+date_start: July 2021
+date_end: Present
+
+---
+
+* Mentoring a batch of 120 students and teaching them concepts related to AI and research 
