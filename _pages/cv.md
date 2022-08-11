@@ -9,4 +9,4 @@ redirect_from:
 
 [Download CV here](https://github.com/chiragjagad/chiragjagad.github.io/blob/master/files/cv.pdf)
 
-<embed src="https://github.com/chiragjagad/chiragjagad.github.io/blob/master/files/cv.pdf" type="application/pdf">
+<embed src="https://drive.google.com/file/d/1Qvg8VgvRdxp_aXIRLHqu4w2fQljUDNyW/view?usp=sharing" type="application/pdf">
