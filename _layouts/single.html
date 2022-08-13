@@ -37,14 +37,14 @@ layout: default
         {% if post.collection == 'projects' %}
         <p><b>{{post.domain}}</b> | {{post.month_year}}</p>
         {% endif %}
-        
+
         {% if page.collection == 'experience' %}
         <p> <b>{{ page.type }}</b> | {{ page.date_start }} - {{ page.date_end }} </p>
         {% if page.guide %}
         <p> Advisor: <a href='{{page.guide_link}}'>{{page.guide}}</a> </p>
         {% endif %}
         {% elsif page.venue and page.date %}
-          <p>Published in <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
+          <p>Publication: <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif page.date %}
           <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
         {% endif %}
