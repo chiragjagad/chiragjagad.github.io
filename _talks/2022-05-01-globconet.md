@@ -7,4 +7,4 @@ date: 2022-05-20
 location: "WebEx"
 ---
 
-[Slides](https://docs.google.com/presentation/d/1anyxIuW4rLqmAhK2OUdZyBSzzqxtHmnx/edit?usp=sharing&ouid=106921150988904840142&rtpof=true&sd=true)
+[Slides](https://drive.google.com/file/d/1sBXsZb1fZWBXz_2K2N6TK4z2UwILPkut/view?usp=sharing)
