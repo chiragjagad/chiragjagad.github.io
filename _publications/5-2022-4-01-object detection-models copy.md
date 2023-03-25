@@ -2,7 +2,7 @@
 title: "A Study on Video Analytics and Their Performance Analysis for Various Object Detection Algorithms"
 collection: publications
 permalink: /publication/A Study on Video Analytics and Their Performance Analysis for Various Object Detection Algorithms
-excerpt: "Presented at IEEE IAS Global Conference on Emerging Technologies (GlobConET) 2022"
+excerpt: "Current Status: Published in IEEE Xplore; Presented at IEEE IAS Global Conference on Emerging Technologies (GlobConET) 2022"
 date: 2022-4-01
 venue: "IEEE Xplore"
 ---
