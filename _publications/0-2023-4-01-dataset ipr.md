@@ -1,10 +1,10 @@
 ---
-title: "Novel Key Frame Extraction for Intelligent Surveillance System"
+title: "Weapons and Fire YOLO dataset"
 collection: publications
-permalink: /publication/Novel Key Frame Extraction for Intelligent Surveillance System
-excerpt: "Current status: In progess"
+permalink: /publication/Weapons and Fire YOLO dataset
+excerpt: "Current status: In scrutiny"
 date: 2023-3-01
-venue: "Indian Patent Office, Government of India"
+venue: "Copyright Office, Government of India"
 ---
 
 ## Abstract:
