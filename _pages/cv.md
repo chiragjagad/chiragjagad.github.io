@@ -7,6 +7,6 @@ redirect_from:
   - /resume
 ---
 
-[Download CV here](https://drive.google.com/file/d/1rcYx7lbyETwtq_IF5gG8L17OSsaqdvvl/view?usp=sharing) if the below preview isn't available
+[Download CV here](https://drive.google.com/file/d/1I9cvoTGUa21JOOM62cwcdD77pHJi0-0-/view?usp=sharing) if the below preview isn't available
 
-<embed src="https://drive.google.com/file/d/1rcYx7lbyETwtq_IF5gG8L17OSsaqdvvl/preview" type="application/pdf">
+<embed src="https://drive.google.com/file/d/1I9cvoTGUa21JOOM62cwcdD77pHJi0-0-/preview" type="application/pdf">
